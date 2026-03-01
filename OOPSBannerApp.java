@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
@@ -45,6 +46,15 @@ public class OOPSBannerApp {
                            "  *****  " + space +
                            " *       " + space +
                            " *****   ");
+=======
+/**
+ * OOPSBannerApp
+ * Prints OOPS to console
+ */
+public class OOPSBannerApp {
+    public static void main(String[] args) {
+        System.out.println("OOPS");
+>>>>>>> 999983134a70a38e871c95d5269f661f6068780e
     }
 }
 
